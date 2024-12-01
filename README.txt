@@ -48,5 +48,4 @@ weighted avg       0.96      0.96      0.96       299
 [[264   4]
  [  8  23]]
  
-
 As we can see KNN gave the best result out of 3 models.

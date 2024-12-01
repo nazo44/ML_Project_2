@@ -63,4 +63,3 @@ for model in models:
   print(class_report)
   print()
   print(matrix)
-
